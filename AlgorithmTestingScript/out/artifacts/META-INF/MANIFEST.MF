@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: lib\gson-2.2.4.jar lib\jfreechart-1.0.19.jar lib\jfreesvg-
+ 2.0.jar lib\jcommon-1.0.23.jar lib\mail.jar lib\html2image-0.9.jar li
+ b\log4j-1.2.17.jar lib\mysql-connector-java-5.1.31.jar lib\druid-1.0.
+ 5.jar lib\jedis-2.6.2.jar lib\commons-pool2-2.0.jar
+Main-Class: com.ygkj.NewMain
+
